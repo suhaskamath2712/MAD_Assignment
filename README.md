@@ -1,0 +1,1 @@
+This project was made as part of the COMP2008 subject at Curtin University, Malaysia. This is a food delivery application, with basic features.
